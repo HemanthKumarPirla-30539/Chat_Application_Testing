@@ -1,0 +1,1 @@
+I proud to say that i am Developed Real-Time-chat Appliocations uisng spring boot and mysql used WebSockets for Real-time Messages and added Authentications while login through sending otps to mails using the JavaMailSender Interface.
