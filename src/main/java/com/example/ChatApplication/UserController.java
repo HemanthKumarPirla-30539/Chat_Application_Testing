@@ -27,7 +27,7 @@ public class UserController {
 
         if (ur.findByEmail(email).isPresent()) {
             res.put("status", "error");
-            res.put("message", "Email already registered!");
+            res.put("message", "Email already Present!");
             return res;
         }
 
